@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338390621573",
+    "project_id": "enstorys",
+    "storage_bucket": "enstorys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338390621573:android:a8dfb9511230cc92d138ec",
+        "android_client_info": {
+          "package_name": "com.example.enstorys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338390621573-1dkluovllqm9jjfvp5mkm8m4k75122j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lzFuxKCEFK2vtCXQGF4TSSn3bzbUnH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338390621573-1dkluovllqm9jjfvp5mkm8m4k75122j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
